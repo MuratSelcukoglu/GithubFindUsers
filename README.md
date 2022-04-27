@@ -1,4 +1,4 @@
-Github Find Users
+<h1>Github Find Users</h1>
 
 How do you use?
 
